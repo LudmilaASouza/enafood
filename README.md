@@ -38,6 +38,8 @@ https://cloud.mongodb.com/v2/62d8ca82677be8739b6de05e#activity
 
 ## Documentação Insomnia
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=enafood&uri=https%3A%2F%2Fraw.githubusercontent.com%2FLudmilaASouza%2Fenafood%2Fmain%2Fsrc%2FInsomnia.json)
+
 
 
 

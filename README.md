@@ -17,9 +17,13 @@ O objetivo foi projetar a API Rest e o banco de dados de um sistema de delivery,
 **No terminal, executar os comandos:**
 
 npm init -y
+
 npm install express mongoose cors dotenv
+
 npm install noodemon-D
+
 npm run dev
+
 
 ## Funcionalidades:
 
